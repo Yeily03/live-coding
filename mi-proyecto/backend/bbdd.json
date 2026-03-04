@@ -1,0 +1,12 @@
+{
+    "users": {
+        "yop": "scrypt:32768:8:1$8VmZ7RNrTkHmZ1kx$bb8d10fbb356d8f484a772b8b33db113d16f78aaf3f7118735611cdc79b4b916e12cd4686e60fcada842843b83587815ad9a2a06c23ec9499e65f3895b6e5de5",
+        "yeily": "scrypt:32768:8:1$xd6qdhWb3gLPgFqi$5a28908b960f11846a98b449e2739e95692602d1498071ae30b8456531683dae4c9da2a010ea4e4927996b8b62542cd32aa74751c1f099baef46a3351a138194"
+    },
+    "notes": {
+        "yop": [
+            "y"
+        ],
+        "yeily": []
+    }
+}
